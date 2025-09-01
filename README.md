@@ -1,2 +1,2 @@
-# py-password-manager
-an easy password manager in python
+# Py Password Manager
+easy and crypted password manager in python
