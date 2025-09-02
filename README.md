@@ -15,4 +15,5 @@ Ideal for developers and security-conscious users who need a simple, open-source
 # Installation of all packet in one command
     pip install -r requirements.txt
 
-
+# Default Password 
+     root
